@@ -4,8 +4,10 @@ Useful powershell script
 This powershell script is explained in this blog: https://www.medium.com/
 
 
-The powershell script
+## The powershell script
 Before you can run the powershell script, there are a few things you need to do:
+
+
 1. Login to Azure, using powershell (login-azAccount)
 2. Find the subscription that you want to deploy into (get-azSubscription)
 3. Select that subscription (select-azsubscription -subscription "SUBSCRIPTIONNAME")
